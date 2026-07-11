@@ -1,5 +1,16 @@
-# 💫 About Me:
-# 👋 Hey, I'm Muhammad Ibrahim<br><br>🎓 CS Undergraduate @ NUTECH Islamabad<br><br>💻 I enjoy building projects with AI and turning ideas into working applications.<br><br>🚀 Currently exploring software development, experimenting with new technologies, and learning through hands-on projects.<br><br>🌱 Still discovering my path in tech, but committed to learning, building, and improving every day.<br><br>✨ One project at a time.<br>
+# 💫 About Me
+
+👋 Hey, I'm Muhammad Ibrahim
+
+🎓 CS Undergraduate @ NUTECH Islamabad
+
+💻 I enjoy building projects with AI and turning ideas into working applications.
+
+🚀 Currently exploring software development, experimenting with new technologies, and learning through hands-on projects.
+
+🌱 Still discovering my path in tech, but committed to learning, building, and improving every day.
+
+✨ One project at a time.
 
 
 ## 🌐 Socials:
