@@ -4,7 +4,7 @@
 
 🎓 CS Undergraduate @ NUTECH Islamabad
 
-💻 I enjoy building projects with AI and turning ideas into working applications.
+💻 I realy enjoy building projects with AI and turning ideas into working applications.
 
 🚀 Currently exploring software development, experimenting with new technologies, and learning through hands-on projects.
 
