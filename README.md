@@ -8,7 +8,7 @@
 
 🚀 Currently exploring software development, experimenting with new technologies, and learning through hands-on projects.
 
-🌱 Still discovering my path in tech, but committed to learning, building, and improving every day.
+🌱 I am still discovering my path in tech, but committed to learning, building, and improving every day.
 
 ✨ One project at a time.
 
