@@ -7,7 +7,6 @@
 💻 I realy enjoy building projects with AI and turning ideas into working applications.
 
 🚀 Currently exploring software development, experimenting with new technologies, and learning through hands-on projects.
-jzfngzgzmgxmgxgmzmgxgkhx
 
 🌱 I am still discovering my path in tech, but committed to learning, building, and improving every day.
 
