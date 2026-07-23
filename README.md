@@ -10,7 +10,7 @@
 
 🌱 I am still discovering my path in tech, but committed to learning, building, and improving every day.
 
-✨ One project at a time.
+✨ One project at a time.i will make something great. 
 
 
 ## 🌐 Socials:
